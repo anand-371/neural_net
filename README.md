@@ -1,13 +1,11 @@
-# neural_net
-
-the neural_net.py file contains code for building a neural network from scratch
-without using any external machine learnig libraries.
-multiple functionalities for:
-initialising weights
-deciding cost function,optimisers etc.
-backprop algorithm
-
-
-more information is provided within the neural_net.py file
-:)
+# waste segregation model
+This basic machine learning model  would help in waste segregation by analysing the image.<br>
+It classifies the waste as an organic:<br>
+1.apple<br> 2.banana<br> 3.orange.... <br>
+<br>
+recycleable:<br>
+1.plastic bottle<br> 2.metal cans<br> 3.cardboard.....<br>
+various other classes can be added according to the requirement of the user :)<br>
+# Model Summary
+![waste](https://user-images.githubusercontent.com/40825655/65015093-2dbbe880-d93e-11e9-91c4-42fbd5fc5ab2.PNG)
 
