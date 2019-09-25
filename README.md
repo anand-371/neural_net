@@ -9,4 +9,4 @@ various other classes can be added according to the requirement of the user :)<b
 # Model Summary
 ![waste](https://user-images.githubusercontent.com/40825655/65015093-2dbbe880-d93e-11e9-91c4-42fbd5fc5ab2.PNG)
 
-the dataset for ttraining the above model can be found [here](https://drive.google.com/drive/u/0/folders/1pXTaawCBAs8Z1ZhahodTlnazKaw4JCX5)
+the dataset for training the above model can be found [here](https://drive.google.com/drive/u/0/folders/1pXTaawCBAs8Z1ZhahodTlnazKaw4JCX5)
